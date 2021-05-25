@@ -6,6 +6,8 @@
 
 ![](../img/architecture-summary.png)
 
+> The system is an integration of customer bidding system, reputation system and notary datacap distribution.
+
 
 
 ## Domain layer
