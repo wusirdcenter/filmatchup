@@ -29,6 +29,9 @@ The transaction matching system counts the information on and off the chain, and
 ## spec (ongoing)
 [spec](./doc/spec.md)
 
+## Reputation idea
+[Reputation idea](./doc/reputation.md)
+
 ## The current stage of the project
 design
 
