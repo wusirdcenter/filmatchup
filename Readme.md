@@ -35,4 +35,8 @@ The transaction matching system counts the information on and off the chain, and
 ## The current stage of the project
 design
 
+[Features](./doc/features.md)
+
+[Technology Architecture](./doc/tech-arch.md)
+
 [bamboo-specs](https://github.com/wusirdcenter/bamboo-specs)
